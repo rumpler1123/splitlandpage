@@ -71,7 +71,7 @@ h1{
 
 .split.left{
   left: 0;
-  background: url('images/design.jpeg') center center no-repeat;
+  background: url('design.jpeg') center center no-repeat;
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ h1{
 
 .split.right{
   right: 0;
-  background: url('images/prog.png') center center no-repeat;
+  background: url('prog.png') center center no-repeat;
   background-size: cover;
 }
 
